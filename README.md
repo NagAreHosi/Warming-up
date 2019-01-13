@@ -1,6 +1,3 @@
-# Warming-up
-命名方式为: 自己的昵称.py
+# String1 and String2
 
-题号从左往右数1234
-
-格式参考zxj.py，日后上传也要注意以下格式，方便大家阅读
+今天做String1和2

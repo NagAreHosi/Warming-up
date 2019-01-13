@@ -5,8 +5,6 @@ Created on Sat Jan 12 18:03:33 2019
 @author: crl
 """
 
-
-
 #array_front9
 def array_front9(nums):
   if len(nums)<=4:

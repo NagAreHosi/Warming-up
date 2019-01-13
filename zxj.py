@@ -1,4 +1,4 @@
-#以下为warming-up1
+#Warming-up1
 #2
 def monkey_trouble(a_smile, b_smile):
     if a_smile == b_smile:
@@ -80,7 +80,7 @@ def front3(str):
         return str * 3
     return str[:3] * 3
 
-#以下为warming-up2
+#Warming-up2
 #1
 def string_times(str, n):
     return str * n

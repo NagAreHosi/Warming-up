@@ -1,3 +1,3 @@
-# String1 and String2
+# List-1 and List-2
 
-今天做String1和2
+今天做List1-2

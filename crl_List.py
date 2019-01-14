@@ -1,3 +1,4 @@
+#List-1
 #1
 def first_last6(nums):
   return nums[0]==6 or nums[-1] == 6
@@ -42,7 +43,7 @@ def make_ends(nums):
 def has23(nums):
   return  nums[0]==2 or nums[0]==3 or nums[1]==2 or nums[1]==3
 
-
+#List-2
 #1
 def count_evens(nums):
   count = 0

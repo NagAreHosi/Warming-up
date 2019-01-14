@@ -1,3 +1,4 @@
+#String-1
 #1
 def hello_name(name):
   return "Hello %s!"%name
@@ -44,8 +45,7 @@ def left2(str):
   else:
     return str[2:]+str[0:2]
 
-
-
+#String-2
 #1
 def double_char(str):
   s = ""

@@ -10,6 +10,6 @@ http://openclassroom.stanford.edu/MainFolder/courses/MachineLearning/exercises/e
       
       1) 要用到梯度下降法、标准方程法和sklearn三种方法，并分别预测出测试集(3500, 2)得到的房价
       
-      2) 拟合的误差要在0.2以下
+      2) 拟合的误差要在0.02以下
       
       3) 命名格式为 姓名首字母_homework.py，并附上姓名

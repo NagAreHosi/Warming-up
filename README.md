@@ -1,3 +1,3 @@
-# List-1 and List-2
+# Logic-1 and Logic-2
 
-今天做List1-2
+今天做1-2

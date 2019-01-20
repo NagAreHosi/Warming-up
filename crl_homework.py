@@ -30,7 +30,6 @@ for i in range(y_data.shape[0]):
 
 
 #梯度下降法
-
 #学习率
 lr = 0.08
 #参数
